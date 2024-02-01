@@ -1,6 +1,6 @@
 # ChatGPT-RequirementsExtraction-AdditionalExperiments
 
-これは，「ChatGPT に質問させることによる要求抽出能力の調査」にて行った追加実験における
+これは，「ChatGPTをSE役とした対話による要求獲得」にて行った追加実験における
 
 * ChatGPTとのやりとり
 * 要求獲得数
